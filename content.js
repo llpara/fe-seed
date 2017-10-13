@@ -1,0 +1,7 @@
+module.exports = `
+    Geology
+    Several known earthquake faults criss-cross the Glendale area and adjacent mountains, as in much of Southern California. Among the more recognized faults are the Sierra Madre and Hollywood faults, situated in the city's northern and southwestern portions, respectively. Additionally, the Verdugo and Raymond faults intersect through the city's central and southeastern areas. The San Gabriel fault, meanwhile, is located northeast of the city. Roughly 75 miles (121 km) northeast of Glendale is a major portion of the San Andreas Fault known as the "Big Bend", where quake-recurrence tracking shows major activity roughly every 140–160 years. The closest portion of the San Andreas is actually 29 miles (47 km) from Glendale. The last major quake along the southern San Andreas was recorded in 1857.
+
+    In the 1971 San Fernando earthquake, which took place along the western edge of the Sierra Madre Fault, surface ruptures were nearly 12 miles (19 km) long, including one portion a few miles northwest of Glendale. Most of the damage was in the northern San Fernando Valley, though 31 structures in Glendale suffered major damage and had to be demolished, plus numerous chimneys collapsed. The 1994 Northridge earthquake had an epicenter about 18 miles (29 km) from Glendale. The city suffered severe damage to a public parking structure and sections of the Glendale Galleria parking structures and exterior columns incurred damages.[19]
+
+`;
