@@ -1,0 +1,16 @@
+{
+  "name": "links-fe",
+  "version": "1.0.0",
+  "description": "FE - Code assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "winston": "^2.4.0",
+    "body-parser": "^1.18.2"
+  }
+}
