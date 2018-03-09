@@ -43,7 +43,7 @@ app.get('/api/text', function (req, res) {
 })
 
 
-var globalState;
+var globalState={};
 app.post("/api/save", textBodyParser, (req, res) => {
     logger.info(util.format("GlobalState <-- %s", req.body));
     globalState = req.body;
