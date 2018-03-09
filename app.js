@@ -26,7 +26,6 @@ var textBodyParser = bodyParser.text({
     type: '*/*'
 });
 
-app.use(express.static('public'));
 app.listen(PORT, HOST, function () {
     logger.info(util.format('Server listening port %d!', PORT));
 
